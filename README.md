@@ -1,2 +1,2 @@
-# coursera-project
-this is coursera project
+# Coursera final project
+this is small business site
